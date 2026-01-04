@@ -8,11 +8,11 @@ I use GitHub to document real AI products, delivery frameworks, and execution pl
 
 
 **What I work on**
+- **Execution & Impact**: Shipping AI products used at scale, improving time-to-market, predictability, and reliability
+- **Program & Delivery Leadership**: Agile / SAFe execution, sprint planning, capacity & velocity management across large cross-functional teams
 - **AI Product Delivery**: MVP → production launches for AI-powered products under tight timelines
 - **ML / LLM Enablement**: Operationalizing LLM-powered copilots with defined inference workflows, evaluation metrics, and human-in-the-loop controls
-- **Program & Delivery Leadership**: Agile / SAFe execution, sprint planning, capacity & velocity management across large cross-functional teams
 - **AI Systems at Scale**: Enterprise AI systems, conversational platforms, and RAG-based solutions with monitoring and governance
-- **Execution & Impact**: Shipping AI products used at scale, improving time-to-market, predictability, and reliability
 
 
 <h2> About Me </h2>
