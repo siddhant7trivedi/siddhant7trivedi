@@ -24,5 +24,6 @@ I use GitHub to document real AI products, delivery frameworks, and execution pl
 - Strong believer in execution discipline, **responsible AI delivery**, and measurable business outcomes, with hands-on experience across Agile, SAFe, Scrum, and enterprise governance models.
 
 **🌱 Building or scaling an AI-powered product?**
+
 Happy to exchange notes on AI delivery, MVP strategy, ML/LLM operationalization, or execution challenges.
 
