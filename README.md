@@ -16,6 +16,7 @@ I use GitHub to document real AI products, delivery frameworks, and execution pl
 
 
 <h2> About Me </h2>
+
 - Program Manager with 9+ years of experience delivering AI-led and digital transformation initiatives across enterprise platforms, conversational systems, and automation programs.
 
 - Led delivery of AI-enabled products in Asset & Wealth Management, large-scale IoT & AI platforms, and AI-powered conversational MVPs, working with teams ranging from small squads to 120+ member cross-functional programs.
